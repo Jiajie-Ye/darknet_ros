@@ -47,6 +47,8 @@ To install CUDA has a long progress,I recommand to follow the official tutorial.
 ## Installation
 Git clone the package into your catkin workspace.
 
+If you had cloned this package you can ignore this step.
+
 `cd catkin_ws/src`
 
 `git clone --recursive https://github.com/Jiajie-Ye/darknet_ros.git`
